@@ -1,0 +1,34 @@
+.footer{
+    position: absolute;
+    background-color:rgb(53, 53, 53);
+    margin-bottom: 0px;
+    width: 100%;
+}
+.footer-icons{
+    margin-top: 10px;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+    color: white;
+}
+.footer-icons i{
+    padding: 10px;
+}
+.footer-text h4{
+    text-align: center;
+    color: rgb(113, 115, 116);
+  font-size: 0.9rem
+}
+.footer-text h3{
+    text-align: center;
+    
+    
+    color: white;
+    
+}
+.year {
+  
+        padding-top: 10px;
+    color: rgb(255, 255, 255);
+   
+}
